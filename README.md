@@ -1,9 +1,16 @@
-## Hi there 👋
+## Bem Vindos ao meu perfil 💋
 
+Meu nome é Maria Vitoria Machado.
+
+- Estou estudando na plataforma [Alura](https://cursos.alura.com.br/edutech)
+- E me desenvolvendo na linguaguem JavaScript
+- Irei utilizar essa plataforma como organização e compartilhamento dos meus projetos
+
+Você pode entrar em contato comigo 🤝
+
+ machado.maria30@escola.pr.gov.br
 <!--
-**mariviit/mariviit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
